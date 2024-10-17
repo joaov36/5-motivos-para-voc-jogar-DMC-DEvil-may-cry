@@ -1,0 +1,26 @@
+body{
+    text-align:center;
+    background-color: rgb(255, 0, 0);
+}
+img{width:1500px;
+height:800px;
+border-style:double;
+border-radius: var(1000px);
+border-radius: 1000px;
+border-color: maroon;
+}
+p{
+    font-size: x-large;
+    color: rgb(94, 68, 3);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h1{
+    font-size: larger;
+    color: cyan;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+iframe{
+    border-radius: inherit;
+    border-style: inherit;
+}
